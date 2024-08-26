@@ -1,0 +1,24 @@
+package com.crime.management.model.Enums;
+
+public enum CrimeType {
+   ARSON,
+   BURGLARY,
+   ROBBERY,
+   HOMICIDE,
+   THEFT,
+   ASSAULT,
+   FRAUD,
+   MURDER,
+   VANDALISM,
+   KIDNAPPING,
+   BRIBERY,
+   TERRORISM,
+   RELIGION_VIOLENCE,
+   HUMAN_TRAFFICKING,
+   MONEY_LAUNDERING,
+   DOMESTIC_VIOLENCE,
+   STALKING,
+   SEXUAL_HARASSMENT,
+   DRUGS,
+   CHILD_LABOUR
+}
